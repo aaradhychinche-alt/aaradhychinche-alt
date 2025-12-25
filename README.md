@@ -78,8 +78,6 @@
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaradhychinche-alt&theme=midnight-purple&hide_border=true&fire=EB4888" alt="Streak Stats" />
 </div>
 
 <br/>
@@ -91,7 +89,6 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://github.com/aaradhychinche-alt/Fnatics-project-">
-          <img src="https://media.giphy.com/media/LId1D5lWq6tMc/giphy.gif" width="100%" height="120" style="object-fit:cover;" />
           <br/>
           <b>🔥 Project Fnatics</b>
           <br/>
@@ -100,7 +97,6 @@
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/aaradhychinche-alt/photography-club">
-           <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="120" style="object-fit:cover;" />
           <br/>
           <b>📸 Photography Club</b>
           <br/>
@@ -109,7 +105,6 @@
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/aaradhychinche-alt/Merch-Startup">
-          <img src="https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif" width="100%" height="120" style="object-fit:cover;" />
           <br/>
           <b>👕 Merch Startup</b>
           <br/>
@@ -133,4 +128,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:A961E3,100:00BFFF&height=100&section=footer" width="100%" />
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=aaradhychinche-alt&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
