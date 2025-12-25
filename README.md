@@ -71,10 +71,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aaradhychinche-alt&show_icons=true&theme=midnight-purple&rank_icon=github&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=aaradhychinche-alt&show_icons=true&theme=midnight-purple&rank_icon=github&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaradhychinche-alt&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aaradhychinche-alt&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
       </td>
     </tr>
   </table>
