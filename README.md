@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:004DAA&height=200&section=header&text=Aaradhy%20Chinche&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:004DAA&height=220&section=header&text=Aaradhy%20Chinche&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
 
   <br/>
-  <img src="https://media.giphy.com/media/iYK1uqbfkvDDBIdTM2/giphy.gif" width="150" alt="Spiderman swinging" />
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E23636&background=00000000&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Building+Scalable+Backends;DevOps+Learner+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=004DAA&center=true&vCenter=true&width=800&lines=The+Friendly+Neighborhood+Developer;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Building+Scalable+Backends;DevOps+Learner" alt="Typing Subtitle" />
 </div>
 
 <div align="center">
