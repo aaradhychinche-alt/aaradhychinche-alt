@@ -82,7 +82,7 @@
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=aaradhychinche-alt&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&ring=E23636&fire=E23636&currStreakLabel=004DAA&hide_border=true" alt="Streak Stats" />
+ <img src="https://streak-stats.demolab.com?user=aaradhychinche-alt&theme=dark&ring=E23636&fire=004DAA&currStreakLabel=ffffff&hide_border=true" />
 </div>
 
 <br/>
