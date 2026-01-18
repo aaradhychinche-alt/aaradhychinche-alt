@@ -35,7 +35,7 @@
         </p>
         <p align="center">
           🚀 <b>Mission:</b> Saving the web, one commit at a time.<br>
-          🕸️ <b>Training:</b> Mastering Kubernetes & DevOps.<br>
+          🕸️ <b>Training:</b> Mastering WASM,Kubernetes & DevOps.<br>
           ⚡ <b>Motto:</b> <i>"With great power comes great responsibility... to document your code."</i>
         </p>
       </td>
