@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:004DAA&height=220&section=header&text=Aaradhy%20Chinche&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
 
+<p align="center">
+  <a href="https://github.com/sponsors/aaradhychinche-alt">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge"
+         alt="Sponsor me on GitHub" />
+  </a>
+</p>
+
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=004DAA&center=true&vCenter=true&width=800&lines=The+Friendly+Neighborhood+Developer;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Building+Scalable+Backends;DevOps+Learner" alt="Typing Subtitle" />
 </div>
